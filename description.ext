@@ -1,0 +1,10 @@
+class CfgDebriefing
+{  
+    class End1
+    {
+        title = "Mission Successful";
+        subtitle = "You made it to the rendevous point";
+        description = "You survived first contact and regrouped with your comrades, but the war is only just beginning.";
+        pictureBackground = "";
+    };
+}
