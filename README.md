@@ -1,4 +1,4 @@
-# Arma-3---First-Contact
+# Arma-3-First-Contact
 ### March 2020
 ![First Contact](https://user-images.githubusercontent.com/25553633/173244370-6df8843f-5a6e-41f8-b718-058f459c6f42.png)
 > A West German Patrol is ambushed near Mariental
